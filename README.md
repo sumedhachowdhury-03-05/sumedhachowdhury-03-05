@@ -34,11 +34,11 @@ I’m particularly passionate about **Blockchain, Web3, and Solidity**, and I’
 
 ## 📌 Projects  
 
-### 🔹 Silent Distress Detector (SSD)  
+### 🔹 *Silent Distress Detector (SSD)*  
 A sensor-based software system designed to detect unnoticed personal emergencies.  
 **Focus:** real-life problem solving, safety, and technology-driven solutions.
 
-### **LearnSphere AI**  
+### 🔹 *LearnSphere AI*  
 AI-powered Smart Learning Platform combining code explanation with academic notes management.
 **Focus:** student learning, programming concepts, and efficient note organization.
 
