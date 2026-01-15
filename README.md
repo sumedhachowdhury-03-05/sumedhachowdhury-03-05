@@ -40,7 +40,6 @@ A sensor-based software system designed to detect unnoticed personal emergencies
 
 ### 🔹 *LearnSphere AI*  
 AI-powered Smart Learning Platform combining code explanation with academic notes management.
-
 **Focus:** student learning, programming concepts, and efficient note organization.
 
 *(More projects coming soon…)*  
