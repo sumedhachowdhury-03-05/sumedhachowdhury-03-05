@@ -42,6 +42,11 @@ A sensor-based software system designed to detect unnoticed personal emergencies
 AI-powered Smart Learning Platform combining code explanation with academic notes management.                                                                                                                        
 **Focus:** student learning, programming concepts, and efficient note organization.
 
+### 🔹  *DataFrost*
+A predictive winter crisis dashboard using weather APIs + ML to optimize resources and prevent cold emergencies.                                                                                                   
+**Focus:** real-time disaster prediction, logistics optimization, and community safety during extreme weather.
+
+
 *(More projects coming soon…)*  
 
 ---
